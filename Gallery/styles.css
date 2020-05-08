@@ -1,0 +1,35 @@
+.bg{
+    background: rgb(255, 174, 0) no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    opacity: 1;
+
+}
+h2{
+    color: rgb(112, 64, 2);
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+
+}
+.bgs{
+    background-color: white;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 50vh;
+    justify-content: center;
+    
+    
+}
+.yes_iimage{
+    width: 100%;
+    height: 50vh;
+}
+.yes_vids{
+    padding: 1.5em;
+    width: 20.35em;
+    height: 30vh;
+}
